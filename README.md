@@ -34,13 +34,9 @@ const hedirasuli = {
 ------------------------------------------------------------------------------------
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hedirasuli&show_icons=true&theme=radical" alt="hedirasuli's GitHub stats" />
-</p>
+![hedirasuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedirasuli&show_icons=true&theme=radical)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedirasuli&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedirasuli&layout=compact&theme=radical)
 
 ### 📈 Activity Graph
 ![Hedi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedirasuli&theme=react-dark)
