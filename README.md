@@ -32,11 +32,6 @@ const hedirasuli = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ------------------------------------------------------------------------------------
-### 📊 GitHub Stats
-
-![hedirasuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedirasuli&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedirasuli&layout=compact&theme=radical)
 
 ### 📈 Activity Graph
 ![Hedi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedirasuli&theme=react-dark)
